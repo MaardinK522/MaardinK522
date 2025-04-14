@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>I'm MaardinK522, a software developer passionate about building innovative solutions that solve real-world problems. My journey in computer science began with a curiosity for machine learning and compiler optimization, and I've since expanded my expertise to include mobile app development and backend systems. I love exploring cutting-edge technologies and contributing to open-source projects that push the boundaries of what's possible.
 
 
